@@ -13,6 +13,10 @@
   <a href="https://github.com/Miguelvillegassc/clinexa-releases/releases/latest"><b>⬇ Descargar la última versión</b></a>
 </p>
 
+<p align="center">
+  <img src="capturas/02-inicio.png" alt="Pantalla de inicio de Clinexa One" width="900" />
+</p>
+
 ---
 
 ## ¿Qué hace?
@@ -51,6 +55,27 @@
 - Usuarios con contraseña y registro de actividad (quién anuló o cambió qué).
 - Tema claro, oscuro o automático, varios colores de marca y tamaño de texto ajustable.
 - **Se actualiza sola**: al abrir, si hay una versión nueva, la instala y se reinicia. Tus datos no se tocan.
+
+---
+
+## Capturas
+
+<table>
+  <tr>
+    <td width="50%"><img src="capturas/04-pacientes.png" alt="Lista de pacientes" /><p align="center"><sub>Pacientes, con alergias y saldo a la vista</sub></p></td>
+    <td width="50%"><img src="capturas/03-ficha.png" alt="Historia clínica del paciente" /><p align="center"><sub>Historia clínica con récipes, reposos y exámenes</sub></p></td>
+  </tr>
+  <tr>
+    <td><img src="capturas/06-nueva-consulta.png" alt="Formulario de nueva consulta" /><p align="center"><sub>Nueva consulta con récipe</sub></p></td>
+    <td><img src="capturas/05-cobros.png" alt="Cuentas por cobrar" /><p align="center"><sub>Cobros en dólares y bolívares</sub></p></td>
+  </tr>
+  <tr>
+    <td><img src="capturas/07-oscuro.png" alt="Inicio en modo oscuro" /><p align="center"><sub>Modo oscuro</sub></p></td>
+    <td><img src="capturas/01-login.png" alt="Inicio de sesión" /><p align="center"><sub>Inicio de sesión</sub></p></td>
+  </tr>
+</table>
+
+<sub>Los pacientes de las capturas son ficticios.</sub>
 
 ---
 
